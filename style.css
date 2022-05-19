@@ -1,0 +1,30 @@
+a {
+    color : blue ;
+    margin : 2px;
+    text-decoration: none;
+}
+
+a:visited {
+    color : purple;
+}
+
+a:hover {
+    color : white;
+    transition: 1ms;
+}
+
+body {
+    background-color: beige;
+    margin : 2px ;
+}
+
+header {
+    background-color: gray;
+    border-style : solid ;
+    border-color: black;
+}
+
+#carte {
+    margin : 10px;
+    display: grid;
+}
